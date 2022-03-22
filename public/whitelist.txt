@@ -1,0 +1,6 @@
+*.o244019.sentry.io
+*.o244019.ingest.sentry.io
+*.firebasecrashlyticssymbols.googleapis.com
+*.fabric.io
+*.crashlyticsreports-pa.googleapis.com
+*.crashlytics.com
