@@ -3,3 +3,4 @@
 *.firebasecrashlyticssymbols.googleapis.com
 *.crashlyticsreports-pa.googleapis.com
 *.crashlytics.com
+*.onesignal.com
