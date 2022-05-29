@@ -1,6 +1,6 @@
+Sentry allows me to get anonymized crash reports so I can better fix bugs!
 *.o244019.sentry.io
 *.o244019.ingest.sentry.io
-*.firebasecrashlyticssymbols.googleapis.com
-*.crashlyticsreports-pa.googleapis.com
-*.crashlytics.com
+
+OneSignal is my push notifications provider.
 *.onesignal.com
